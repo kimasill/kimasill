@@ -3,10 +3,10 @@
 
 <div align="center">
     
-### 🎮 Game Developer
+### 🎮 Game Developer 🎮
 <br/><br/><br/><br/>
     
-## 💻 Tech Stacks
+## 💻 Tech Stacks 💻
 Techs i've used least one <br/> 
 <img alt="Csharp" src 
 ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/> <img alt="C" src 
@@ -15,7 +15,7 @@ Techs i've used least one <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimasill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-## 🌹 It's Me
+## 🌹 It's Me 🌹
 <a href = "https://github.com/kimasill"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://kimasill.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://instagram.com/kimasill"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
