@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SungHyeon Kim&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SungHyeon　Kim&fontSize=90)  
 
 
 
@@ -17,9 +16,6 @@
 <img alt="Gmail" src 
 ="https://img.shields.io/badge/kibbel1998@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimasill&show_icons=true&theme=radical)
 
 
 - ✨Magic ✨
