@@ -33,4 +33,4 @@ Techs i've used least one <br/>
 KIT(Kumoh Institute Technology) 2017.03 ~
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=Transparent&color=FFA500&height=300&descAlign=50&fontAlign=50&section=header&text=Thank﻿you&fontSize=70&fontColor=2E2E2E)  
+![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=FFA500&height=300&descAlign=50&fontAlign=50&section=header&text=Thank﻿you&fontSize=70&fontColor=2E2E2E)  
