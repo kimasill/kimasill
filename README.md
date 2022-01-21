@@ -7,7 +7,7 @@
 
 ## 💻 My Stacks
 <img alt="Csharp" src 
-="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="C" src 
+="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=C\#&logoColor=white"/> <img alt="C" src 
 ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 
 ## 💻 My info
@@ -15,7 +15,7 @@
 </a> <a href = "https://kimasill.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://instagram.com/kimasill"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
 <img alt="Gmail" src 
-="https://img.shields.io/badge/kibbel1998@gmail.com-EA4335.svg?&style=for-the-badge&logo=kibbel1998@gmail.com&logoColor=white"/>
+="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=kibbel1998@gmail.com&logoColor=white"/>
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
