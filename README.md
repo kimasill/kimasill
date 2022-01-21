@@ -11,7 +11,7 @@
     I am very active, I like to exercise and meet people.🦾🥂  
     My dream is to create the best game in the world.😆
     
-<br/><br/><br/><br/>
+<br/>
     
 ## 💻 Tech Stacks 💻
 Techs i've used least one <br/> 
