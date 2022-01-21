@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SungHyeon ﻿Kim&fontSize=90)  
 
- ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿  ﻿ ﻿ ﻿ ﻿  Hell Yeah!
+ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿  ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ # 🎮 Game Developer
 <br/><br/><br/><br/><br/><br/>    
     
-## 💻 My Stacks
+## 💻 Tech Stacks
 i've used least one 
 <img alt="Csharp" src 
 ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C" src 
@@ -11,7 +11,7 @@ i've used least one
 
 <br/><br/><br/>   
 
-## 💻 My Info
+## 🌹 It's Me
 <a href = "https://github.com/kimasill"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://kimasill.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://instagram.com/kimasill"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
