@@ -10,9 +10,7 @@
     I develop games using Unity, Unreal Engine and any other languages.  
     I am very active, I like to exercise and meet people.🦾🥂  
     My dream is to create the best game in the world.😆
-    
 <br/>
-    
 ## 💻 Tech Stacks 💻
 Techs i've used least one <br/> 
 <img alt="Csharp" src 
