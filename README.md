@@ -11,7 +11,9 @@
     I am very active, I like to exercise and meet people.🦾🥂  
     My dream is to create the best game in the world.😆
 <br/>
+    
 ## 💻 Tech Stacks 💻
+    
 Techs i've used least one <br/> 
 <img alt="Csharp" src 
 ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/> <br/> <img alt="C" src 
