@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=orange&height=300&section=header&text=SungHyeon ﻿Kim&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFA500&height=300&section=header&text=SungHyeon ﻿Kim&fontSize=90)  
 
-<div align="center">    
-### 🎮 Game Developer 
-
+<div align="center">
+    
+### 🎮 Game Developer
 <br/><br/><br/><br/>
     
 ## 💻 Tech Stacks
@@ -31,4 +31,4 @@ Techs i've used least one <br/>
 KIT(Kumoh Institute Technology) 2017.03 ~
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=orange&height=300&section=header&text=Thank ﻿you=70)  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=300&section=header&text=Thank ﻿you=70)  
