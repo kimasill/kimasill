@@ -6,11 +6,13 @@
 <div align="center">
     
 ### 🎮 Game Developer 🎮
-
-    Hi there! I'm student of KIT.  
+<p>
+     Hi there! I'm student of KIT.  
     I develop game using Unity, Unreal Engine and any other languages.  
     I am very active, I like to exercise and meet people.🦾🥂  
     I will create the best game in the world.😆
+</p>
+   
 <br/>
     
 ## 💻 Tech Stacks 💻
