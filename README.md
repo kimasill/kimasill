@@ -39,4 +39,5 @@ Techs i've used least one <br/>
 ## License
 
 KIT(Kumoh Institute Technology) 2017.03 ~
+정보처리기사(한국산업인력공단)
 </div>
