@@ -25,8 +25,8 @@ Whether it's engineering a seamless multiplayer sync or designing a data-driven 
 
 | Tech Stack | Level | Where & How I Use It |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> | `██████████` **Lv.99** | Developed a PCG-based procedural level generation tool ([DungeonGenerator](https://github.com/kimasill/DungeonGenerator)) and dynamic Multiplayer Co-op games; also experienced in modeling and landscaping. |
-| <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/> | `██████████` **Lv.98** | My go-to engine for rapid prototyping, cross-platform (Mobile/PC) architecture, and physics-based interactive mechanics. |
+| <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> | `██████████`  | Developed a PCG-based procedural level generation tool ([DungeonGenerator](https://github.com/kimasill/DungeonGenerator)) and dynamic Multiplayer Co-op games; also experienced in modeling and landscaping. |
+| <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/> | `██████████`| My go-to engine for rapid prototyping, developing 2D MMORPGs, cross-platform (Mobile/PC) architecture, and physics-based interactive mechanics. |
 
 <br/>
 
@@ -35,9 +35,9 @@ Whether it's engineering a seamless multiplayer sync or designing a data-driven 
 
 | Tech Stack | Level | Where & How I Use It |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> | `███████░░░` **Lv.70** | Handled low-level network packet serialization, socket programming, and memory-efficient server communication protocols. |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | `██████░░░░` **Lv.60** | Utilized for creating deep learning models with <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> and performing in-depth data analysis; previously used for automated deployment scripts. |
-| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> | `██████░░░░` **Lv.60** | Developed multi-threaded game server architectures and managed real-time database syncing for player states. |
+| <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> | `███████░░░`  | Handled low-level network packet serialization, socket programming, and memory-efficient server communication protocols. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | `██████░░░░` | Utilized for creating deep learning models with <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> and performing in-depth data analysis; previously used for automated deployment scripts. |
+| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> | `██████░░░░` | Developed multi-threaded game server architectures and managed real-time database syncing for player states. |
 
 <br/>
 
@@ -46,8 +46,8 @@ Whether it's engineering a seamless multiplayer sync or designing a data-driven 
 
 | Tech Stack | Level | Where & How I Use It |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white"/> | `█████` | Built robust backend services, RESTful APIs, and integrated with databases like MS SQL for efficient data processing and large-scale management. |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=CSS3&logoColor=white"/> | `████`  | Developed responsive web-based admin dashboards, live-ops event pages, and internal management tools. |
+| <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white"/> | `█████░░░░` | Built robust backend services, RESTful APIs, and integrated with databases like MS SQL for efficient data processing and large-scale management. |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=CSS3&logoColor=white"/> | `████░░░░░`  | Developed responsive web-based admin dashboards, live-ops event pages, and internal management tools. |
 
 <br/>
 
