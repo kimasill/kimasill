@@ -21,8 +21,6 @@ I enjoy turning simple mechanics into **meaningful player experiences.**
 ---
 
 ## 💻 Tech Stack
-![unrealengine](https://github.com/user-attachments/assets/09d0e875-3af0-48e6-9353-c7e1eab19b53)
-
 ### 🎯 Core
 <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal_Engine&logoColor=white"/>
