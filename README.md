@@ -8,17 +8,16 @@
 
 ## 🎮 Game Developer & System Architect
 
-**"Designing robust systems, not just games."**
+**"Architecting digital universes where logic meets imagination."**
 
-I am a game developer dedicated to building **interactive systems, simulation-driven gameplay, and immersive user experiences**. 
-Currently focused on **Unity** and **Unreal Engine**, I am actively exploring scalable gameplay architecture, multiplayer synchronization, and AI-driven mechanics. 
-My goal is to translate complex technical requirements into **meaningful and seamless player experiences.**
+I don't just write scripts; I build ecosystems. I am a game developer who thrives on breathing life into pixels and code, crafting **simulation-driven worlds, dynamic AI, and scalable game architectures**. 
 
+Whether it's engineering a seamless multiplayer sync or designing a data-driven ability system, I love untangling complex technical knots. For me, every project is a new opportunity to build the unimaginable. I am fueled by a constant desire to learn, push technical boundaries, and embrace the next grand challenge in game creation.
 <br/>
 
 ---
 
-## ⚔️ Core Development
+## Core Development
 > **Building the Heart of the Game.** Focus on robust mechanics, intelligent entities, and high-performance logic.
 
 * **Gameplay System Design:** Engineered modular, data-driven architectures for player abilities, inventory, and quest systems, ensuring scalability across different game genres without hardcoding logic.
@@ -31,39 +30,37 @@ My goal is to translate complex technical requirements into **meaningful and sea
 
 <br/>
 
-## 🌐 Networking & Data Science
+## Networking & Data Science
 > **Connecting Players and Analyzing Worlds.** Bridging clients, servers, and data for seamless experiences and balancing.
 
 | Tech Stack | Level | Where & How I Use It |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> | `███████░░░` **Lv.70** | Handled low-level network packet serialization, socket programming, and memory-efficient server communication protocols. |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | `██████░░░░` **Lv.60** | Utilized for creating deep learning models and performing in-depth data analysis; previously used for automated deployment scripts. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | `██████░░░░` **Lv.60** | Utilized for creating deep learning models with <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> and performing in-depth data analysis; previously used for automated deployment scripts. |
 | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> | `██████░░░░` **Lv.60** | Developed multi-threaded game server architectures and managed real-time database syncing for player states. |
 
 <br/>
 
-## 🏗️ System Design & Live-Ops
+## System Design & Live-Ops
 > **Expanding the Ecosystem.** Developing backend services, APIs, and web-based tools to support live game operations.
 
 | Tech Stack | Level | Where & How I Use It |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white"/> | `███████░░░` **Lv.70** | Built robust backend services, RESTful APIs for player authentication, and matchmaking servers. |
-| <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> | `██████░░░░` **Lv.60** | Integrated back-office servers for game administration and managed large-scale game data storage. |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=CSS3&logoColor=white"/> | `█████░░░░░` **Lv.50** | Developed responsive web-based admin dashboards, live-ops event pages, and internal management tools. |
+| <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white"/> | `█████` | Built robust backend services, RESTful APIs, and integrated with databases like MS SQL for efficient data processing and large-scale management. |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=CSS3&logoColor=white"/> | `████`  | Developed responsive web-based admin dashboards, live-ops event pages, and internal management tools. |
 
 <br/>
 
-## 🛠️ Tools & Workflow
-> **Optimizing the Pipeline.** Steamlining development through efficient collaboration and project management.
+## Tools & Workflow
+> **Optimizing the Pipeline.** Streamlining development through efficient collaboration and project management.
 
 | Category | Tool Badges | Usage & Responsibility |
 | :--- | :--- | :--- |
 | **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | Managed complex branching strategies and resolved conflicts for collaborative game development. |
 | **Project Management** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> | Documented Game Design Documents (GDD), tracked sprint milestones, and managed task backlogs effectively. |
-
 ---
 
-## 🎓 Background
+## Background
 
 | Education & Certification | Details |
 | :--- | :--- |
