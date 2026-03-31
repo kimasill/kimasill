@@ -1,76 +1,68 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=SungHyeon Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=SungHyeon%20Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling)
 
 <img width="80%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
 
 <br/>
 
-## 🎮 Game Developer & System Architect
+## 🎮 Game Developer
 
-**"Architecting digital universes where logic meets imagination."**
+I build games end-to-end — from custom servers and network layers to gameplay systems and procedural content tools.  
+Most of my work is in **UE5 (C++)** and **Unity (C#)**, and I enjoy solving the hard parts: multiplayer sync, data-driven architecture, and performance.
 
-I don't just write scripts; I build ecosystems. I am a game developer who thrives on breathing life into pixels and code, crafting **simulation-driven worlds, dynamic AI, and scalable game architectures**. 
-
-Whether it's engineering a seamless multiplayer sync or designing a data-driven ability system, I love untangling complex technical knots. For me, every project is a new opportunity to build the unimaginable. I am fueled by a constant desire to learn, push technical boundaries, and embrace the next grand challenge in game creation.
 <br/>
 
 ---
 
 ## Core Development
-> **Building the Heart of the Game.** Focus on robust mechanics, intelligent entities, and high-performance logic.
+> Gameplay systems, AI, and engine-level logic.
 
-* **Gameplay System Design:** Engineered modular, data-driven architectures for player abilities, inventory, and quest systems, ensuring scalability across different game genres without hardcoding logic.
-* **AI & Simulation System:** Implemented Behavior Trees (BT) and Finite State Machines (FSM) to create dynamic NPC combat behaviors, realistic crowd simulations, and responsive pathfinding algorithms.
+* **Gameplay Systems:** Modular ability, inventory, and quest architectures — data-driven, not hardcoded.
+* **AI:** Behavior Trees, FSM, perception-based patrol for NPC combat and crowd movement.
 
-| Tech Stack | Level | Where & How I Use It |
+| Tech Stack | Level | Projects |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> | `██████████`  | Developed a PCG-based procedural level generation tool ([DungeonGenerator](https://github.com/kimasill/DungeonGenerator)) and dynamic Multiplayer Co-op games; also experienced in modeling and landscaping. |
-| <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/> | `██████████`| My go-to engine for rapid prototyping, developing 2D MMORPGs, cross-platform (Mobile/PC) architecture, and physics-based interactive mechanics. |
+| <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> | `██████████`  | PCG dungeon generator plugin ([DungeonGenerator](https://github.com/kimasill/DungeonGenerator)), Co-op multiplayer ([Pickpacker](https://github.com/kimasill/Pickpacker/tree/PickPacker-publish)) |
+| <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/> | `██████████`| 2D MMORPG ([DawnStar](https://github.com/kimasill/DawnStar)) — client, dedicated server, DB, content |
 
 <br/>
 
-## Networking & Data Science
-> **Connecting Players and Analyzing Worlds.** Bridging clients, servers, and data for seamless experiences and balancing.
+## Networking & Data
+> Client–server architecture and data pipelines.
 
-| Tech Stack | Level | Where & How I Use It |
+| Tech Stack | Level | Usage |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> | `███████░░░`  | Handled low-level network packet serialization, socket programming, and memory-efficient server communication protocols. |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | `██████░░░░` | Utilized for creating deep learning models with <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> and performing in-depth data analysis; previously used for automated deployment scripts. |
-| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> | `██████░░░░` | Developed multi-threaded game server architectures and managed real-time database syncing for player states. |
+| <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> | `███████░░░`  | Low-level socket programming, packet serialization |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | `██████░░░░` | YOLOv5 vehicle classification ([kCars](https://github.com/kimasill/kCarsClassificationModule)), data analysis |
+| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> | `██████░░░░` | Multi-threaded game sim ([DevGameTycoon](https://github.com/kimasill/DevGameTycoon)), real-time state sync |
 
 <br/>
 
-## System Design & Live-Ops
-> **Expanding the Ecosystem.** Developing backend services, APIs, and web-based tools to support live game operations.
+## Backend & Tools
+> Server-side services and workflow.
 
-| Tech Stack | Level | Where & How I Use It |
+| Tech Stack | Level | Usage |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white"/> | `█████░░░░` | Built robust backend services, RESTful APIs, and integrated with databases like MS SQL for efficient data processing and large-scale management. |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=CSS3&logoColor=white"/> | `████░░░░░`  | Developed responsive web-based admin dashboards, live-ops event pages, and internal management tools. |
+| <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white"/> | `█████░░░░` | ASP.NET account server, EF Core, REST APIs |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=CSS3&logoColor=white"/> | `████░░░░░`  | Portfolio site, web-based project pages |
 
-<br/>
-
-## Tools & Workflow
-> **Optimizing the Pipeline.** Streamlining development through efficient collaboration and project management.
-
-| Category | Tool Badges | Usage & Responsibility |
+| Category | Tools | Note |
 | :--- | :--- | :--- |
-| **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | Managed complex branching strategies and resolved conflicts for collaborative game development. |
-| **Project Management** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> | Documented Game Design Documents (GDD), tracked sprint milestones, and managed task backlogs effectively. |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | Branching, LFS, publish branches |
+| **Project Mgmt** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> | GDD, sprint tracking |
 ---
 
 ## Background
 
 | Education & Certification | Details |
 | :--- | :--- |
-| **Kumoh Institute of Technology (KIT)** | Bachelor's Degree |
-| **Engineer Information Processing** | Certification (정보처리기사) |
+| **Kumoh National Institute of Technology** | Bachelor's Degree |
+| **Engineer Information Processing** | 정보처리기사 |
 
 <br/>
 
-## 🔗 Let's Connect
-
+## 🔗 Contact
 <a href="https://github.com/kimasill"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="https://kimasill.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://instagram.com/kimasill"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
